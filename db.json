@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": "b11fc3ff11cef.8",
+      "name": "Błażej",
+      "age": 12,
+      "isFullTime": true,
+      "position": "Mid"
+    },
+    {
+      "id": "11b85e6f96eb63",
+      "name": "Julia Obała ",
+      "age": 20,
+      "isFullTime": null,
+      "position": null
+    }
+  ]
+}

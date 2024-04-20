@@ -1,0 +1,19 @@
+{
+  "name": "api_host",
+  "version": "1.0.0",
+  "description": "hosting an api for netlandProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakuu77/api_host.git"
+  },
+  "author": "Błażej Szcześniak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bakuu77/api_host/issues"
+  },
+  "homepage": "https://github.com/bakuu77/api_host#readme"
+}
